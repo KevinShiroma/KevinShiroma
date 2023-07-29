@@ -57,12 +57,21 @@ Ano de conclusão : 2024
 *  [Facebook](https://www.facebook.com/makoto.shiroma)
 *  [Linkedin](https://www.linkedin.com/in/kevinmakotos/)
 
-## Informações Adicionais
-* Morei no Japão durante o período de 2021 a nov/2022. Trabalhei como dekassegui em fábricas, onde adquiri meus conhecimentos na língua japonesa e a cultura de trabalho.
+## Experiências Adicionais
+* Morei no Japão durante o período de nov/2021 a nov/2022, trabalhando como dekassegui. Cada ano em um lugar diferente. <br>
+    * No primeiro ano trabalhei na provícia de Fukui, na [Murata](https://www.murata.com/en-us), uma fábrica de micro capacitores de cerâmica.  <br>
+    * No segundo ano na província de Aichi, na [Denso](https://www.denso.com/br/pt/), onde eram criados placas eletrônicas para carros em sua maioria da Toyota, Subaru e Honda. <br>
+* O fato de ter morado em outro país desenvolveu minhas habilidades de aprender um novo idioma e formas organizacionais de trabalho japonês.
 
 <br>
+
+   <details>
+           <summary>Minhas Mad Skills</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
 
 Inspirado no [richmanzoli](https://github.com/richmanzoli/curriculo). Confere o dele lá também! :wink:
+
