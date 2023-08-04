@@ -48,7 +48,7 @@ Ano de conclusão : 2024
 * [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
 
 ## Cursos Completos
-* Curso Lógica da Programação ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
+* Lógica da Programação em C# ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
 * HTML e CSS para Iniciantes  ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/html-css-iniciantes.pdf))
 * CSS Flexbox                 ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/css-flexbox.pdf))
 * UI Design Para Iniciantes   ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-iniciantes.pdf))
