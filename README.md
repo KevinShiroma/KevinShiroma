@@ -53,6 +53,8 @@ Ano de conclusão : 2024
 * CSS Flexbox                 ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/css-flexbox.pdf))
 * UI Design Para Iniciantes   ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-iniciantes.pdf))
 * UI Design Avançado          ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-avancado.pdf))
+* Fundamentos do Design da Experiência do Usuário (UX)  ([Certificado](https://coursera.org/share/4b77ce35c552288037372f4031a1972e))
+
 
 ## Eventos 
 * Imersão Jornada Para o Futuro Para desenvolvimento das SoftSkills (Cia de Talentos) ( [Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/soft-skills.pdf) )
