@@ -47,6 +47,9 @@ Ano de conclusão : 2024
 * [Bikcraft](https://kevinshiroma.github.io/bikcraft/)
 * [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
 
+## Behance
+* [Behance] (https://www.behance.net/makotoshiroma)
+
 ## Cursos Completos
 * Lógica da Programação em C# ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
 * HTML e CSS para Iniciantes  ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/html-css-iniciantes.pdf))
