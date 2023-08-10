@@ -43,7 +43,7 @@ Ano de conclusão : 2024
 * Inglês
   * Intermediário / Avançado 
 
-## Projetos Desenvolvimento Web
+## Projetos
 * [Bikcraft](https://kevinshiroma.github.io/bikcraft/)
 * [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
 
