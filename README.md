@@ -43,12 +43,12 @@ Ano de conclusão : 2024
 * Inglês
   * Intermediário / Avançado 
 
-## Projetos
+## Projetos Desenvolvimento Web
 * [Bikcraft](https://kevinshiroma.github.io/bikcraft/)
 * [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
 
-## Behance
-* [Behance] (https://www.behance.net/makotoshiroma)
+## Projetos Experiência do usuário(UX) e Interface do Usuário(UI)
+* [Behance](https://www.behance.net/kevinshiroma)
 
 ## Cursos Completos
 * Lógica da Programação em C# ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
