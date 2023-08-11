@@ -21,15 +21,32 @@ Ano de conclusão : 2024
 
   
 ## Conhecimentos
-
-### Tecnologias
-* HTML5
-* CSS3
-* JavaScript(ES6)
-* Figma
+### Campo de atuação
+* Front-End development
 * UX Design
 * UX Writing
 * UI Design
+
+### Tecnologias e Linguagens de Programação
+* HTML5
+* CSS3
+* JavaScript(ES6)
+* C#
+* C++
+* PHP
+* MySQL
+
+### Técnicas e Ferramenta
+* Git / Github
+* Figma
+* Criação de Wireframes
+* Canva
+* Notion
+* Trello
+* Microsoft Word
+* Microsoft Excel
+* Microsoft Powerpoint
+
 
 ### Sistemas Operacionais
 * Windows
