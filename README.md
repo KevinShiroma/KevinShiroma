@@ -16,13 +16,13 @@ Ano de conclusão : 2024
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas.md)
 
 
-## Experência Profissional
+## Experiência Profissional
 * Procurando minha primeira oportunidade na programação.
 
   
 ## Conhecimentos
 ### Campo de atuação
-* Front-End development
+* Front-End Development
 * UX Design
 * UX Writing
 * UI Design
@@ -31,6 +31,7 @@ Ano de conclusão : 2024
 * HTML5
 * CSS3
 * JavaScript(ES6)
+* Bootstrap
 * C#
 * C++
 * PHP
