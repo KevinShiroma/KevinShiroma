@@ -31,11 +31,14 @@ Ano de conclusão : 2024
 * HTML5
 * CSS3
 * JavaScript(ES6)
-* Bootstrap
 * C#
 * C++
 * PHP
 * MySQL
+
+### Frameworks e Bibliotecas
+* Bootstrap
+
 
 ### Técnicas e Ferramenta
 * Git / Github
