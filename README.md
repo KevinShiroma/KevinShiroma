@@ -75,6 +75,7 @@ Ano de conclusão : 2024
 * Lógica da Programação em C# ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
 * HTML e CSS para Iniciantes  ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/html-css-iniciantes.pdf))
 * CSS Flexbox                 ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/css-flexbox.pdf))
+* Bootstrap 4                ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/boostrap.pdf))
 * UI Design Para Iniciantes   ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-iniciantes.pdf))
 * UI Design Avançado          ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-avancado.pdf))
 * Fundamentos do Design da Experiência do Usuário (UX)  ([Certificado](https://coursera.org/share/4b77ce35c552288037372f4031a1972e))
