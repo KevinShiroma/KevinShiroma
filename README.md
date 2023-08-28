@@ -84,6 +84,7 @@ Ano de conclusão : 2024
 ## Eventos 
 * Imersão Jornada Para o Futuro Para desenvolvimento das SoftSkills (Cia de Talentos) ( [Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/soft-skills.pdf) )
 * Imersão Tech - Desenvolvimento das SoftSkills para pessoas do setor da T.I (Cia de Talentos) ( [Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/Imers%C3%A3o%20Tech%20Agosto_Kevin%20Makoto%20Shiroma.pdf) )
+* Bayer Day - Evento presencial na sede da Bayer ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/Evento%20Presencial%20Bayer%20-%20Agosto_Kevin%20Makoto%20Shiroma.pdf))
 
 
 
