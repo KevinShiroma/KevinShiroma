@@ -72,13 +72,14 @@ Ano de conclusão : 2024
 * [Behance](https://www.behance.net/kevinshiroma)
 
 ## Cursos Completos
-* Lógica da Programação em C# ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
-* HTML e CSS para Iniciantes  ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/html-css-iniciantes.pdf))
-* CSS Flexbox                 ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/css-flexbox.pdf))
-* Bootstrap 4                ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/boostrap.pdf))
-* UI Design Para Iniciantes   ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-iniciantes.pdf))
-* UI Design Avançado          ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-avancado.pdf))
-* Fundamentos do Design da Experiência do Usuário (UX)  ([Certificado](https://coursera.org/share/4b77ce35c552288037372f4031a1972e))
+* Lógica da Programação em C# - Udemy ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
+* HTML e CSS para Iniciantes - Origamid ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/html-css-iniciantes.pdf))
+* CSS Flexbox - Origamid              ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/css-flexbox.pdf))
+* Bootstrap 4 - Origamid               ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/boostrap.pdf))
+* UI Design Para Iniciantes - Origamid   ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-iniciantes.pdf))
+* UI Design Avançado   - Origamid        ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-avancado.pdf))
+* Fundamentos do Design da Experiência do Usuário (UX) - Google ([Certificado](https://coursera.org/share/4b77ce35c552288037372f4031a1972e))
+* Iniciar o processo de design de UX: Criar empatia, Definir e Idealizar - Google ([Certificado](https://coursera.org/share/f760e9fbfb9563919e0a1e519ac71e17))
 
 
 ## Eventos 
