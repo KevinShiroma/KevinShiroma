@@ -78,7 +78,7 @@ Ano de conclusão : 2024
 * UI Design Para Iniciantes - Origamid   ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-iniciantes.pdf))
 * UI Design Avançado   - Origamid        ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ui-design-avancado.pdf))
 * Fundamentos do Design da Experiência do Usuário (UX) - Google ([Certificado](https://coursera.org/share/4b77ce35c552288037372f4031a1972e))
-* Iniciar o processo de design de UX: Criar empatia, Definir e Idealizar - Google ([Certificado](https://coursera.org/share/f2a27f83b5f0ae3008580fc4d1f156cc))
+* Iniciar o processo de design de UX: Criar empatia, Definir e Idealizar - Google ([Certificado](https://coursera.org/share/f760e9fbfb9563919e0a1e519ac71e17))
 
 
 ## Eventos 
