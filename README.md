@@ -7,7 +7,7 @@ Desenvolvedor front-end | UX/UI Designer
 Olá! :wave: <br>
 Meu nome é Kevin Makoto Shiroma, sou web developer. Amante de academia e gastronomia. <br>
 Gosto de viajar, conhecer museus e passear no parque. <br>
-Meu foco de estudo é o front-end, mas pretendo me tornar um FullStack developer! :rocket:
+Meu foco de estudo é o front-end e na experiência do usuário, criando interfaces incríveis centradas ao usuário :rocket:
 
 ## Formação
 FECAP - Fundação Escola de Comércio Álvares Penteado - Campus Liberdade <br>
@@ -41,12 +41,11 @@ Ano de conclusão : 2024
 
 
 ### Técnicas e Ferramenta
-* Git / Github
 * Figma
-* Criação de Wireframes
+* Wireframes
 * Canva
 * Notion
-* Trello
+* Trello (Metodologia Kanban)
 * Microsoft Word
 * Microsoft Excel
 * Microsoft Powerpoint
