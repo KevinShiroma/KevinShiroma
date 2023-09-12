@@ -71,6 +71,8 @@ Ano de conclusão : 2024
 * [Behance](https://www.behance.net/kevinshiroma)
 
 ## Cursos Completos
+
+### Cursos Técnicos
 * Lógica da Programação em C# - Udemy ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/logica-programacao.pdf))
 * HTML e CSS para Iniciantes - Origamid ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/html-css-iniciantes.pdf))
 * CSS Flexbox - Origamid              ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/css-flexbox.pdf))
@@ -80,6 +82,9 @@ Ano de conclusão : 2024
 * Fundamentos do Design da Experiência do Usuário (UX) - Google ([Certificado](https://coursera.org/share/4b77ce35c552288037372f4031a1972e))
 * Iniciar o processo de design de UX: Criar empatia, Definir e Idealizar - Google ([Certificado](https://www.coursera.org/account/accomplishments/verify/NZ8VPN8D7Y5J))
 * Criar Wireframes e Protótipos de Baixa Fidelidade - Google ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ux-design-wireframes.pdf))
+
+### Softskills
+* Formação em Liderança - Conquer ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/conquer-certificado-lideran%C3%A7a.pdf))
 
 
 ## Eventos 
