@@ -5,13 +5,13 @@ Desenvolvedor front-end | UX/UI Designer
 :envelope:  makoto.shiroma@hotmail.com
 
 Olá! :wave: <br>
-Meu nome é Kevin Makoto Shiroma, sou web developer. Amante de academia e gastronomia. <br>
+Meu nome é Kevin Makoto Shiroma, sou web developer. <br>
 Gosto de viajar, conhecer museus e passear no parque. <br>
 Meu foco de estudo é o front-end e na experiência do usuário, criando interfaces incríveis centradas ao usuário :rocket:
 
 ## Formação
 FECAP - Fundação Escola de Comércio Álvares Penteado - Campus Liberdade <br>
-Ano de conclusão : 2024
+Ano de conclusão : dez/2024
 
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas.md)
 
