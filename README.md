@@ -19,7 +19,9 @@ Meu foco de estudo é o front-end e na experiência do usuário, criando a melho
   <a href="mailto:makoto.shiroma@hotmail.com" alt="outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
-
+  <a href="https://behance.net/kevinshiroma" alt="behance">
+  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
+ 
  
 
 </p>
@@ -82,12 +84,6 @@ Ano de conclusão : dez/2024
 * Inglês
   * Intermediário / Avançado 
 
-## Projetos
-* [Bikcraft](https://kevinshiroma.github.io/bikcraft/)
-* [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
-
-## Projetos Experiência do usuário(UX) e Interface do Usuário(UI)
-* [Behance](https://www.behance.net/kevinshiroma)
 
 ## Cursos Completos
 
