@@ -45,13 +45,10 @@ Ano de conclusão : dez/2024
 
 ### Técnicas e Ferramentas
 * Figma
-* Wireframes
 * Canva
 * Notion
 * Trello
-* Microsoft Word
-* Microsoft Excel
-* Microsoft Powerpoint
+* Pacote Office
 
 
 ### Sistemas Operacionais
@@ -73,7 +70,7 @@ Ano de conclusão : dez/2024
 ## Projetos
 * [Bikcraft](https://kevinshiroma.github.io/bikcraft/)
 * [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
-* * [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
+* [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
 
 ## Projetos Experiência do usuário(UX) e Interface do Usuário(UI)
 * [Behance](https://www.behance.net/kevinshiroma)
