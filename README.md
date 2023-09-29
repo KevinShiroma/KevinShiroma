@@ -74,9 +74,6 @@ Ano de conclusão : dez/2024
 ### Sistemas de controle de versão
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Experiência Profissional
-* Procurando minha primeira oportunidade na programação.
-
 
 ## Idiomas
 * Japonês
