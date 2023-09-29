@@ -5,7 +5,7 @@ Desenvolvedor Front-end | UX/UI Designer
 
 <p align="left"> 
 Meu nome é Kevin Makoto Shiroma, sou web developer e UX e UI Designer. <br>
-Gosto de viajar, praticar exercícios físicos e passear no parque. <br>
+Sou estudante de Análise e Desenvolvimento de Sistemas, no segundo semestre, com término em dez/2024. <br>
 Meu foco de estudo é o front-end e na experiência do usuário, criando interfaces incríveis centradas ao usuário :rocket:
 </p>
 
@@ -24,13 +24,14 @@ Meu foco de estudo é o front-end e na experiência do usuário, criando interfa
 
 
 ## Formação
+* Análise e Desenvolvimento de Sistemas <br>
 FECAP - Fundação Escola de Comércio Álvares Penteado - Campus Liberdade <br>
 Ano de conclusão : dez/2024
 
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas.md)
 
   
-## Minhas Skills
+## Minhas Skills 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -44,18 +45,21 @@ Ano de conclusão : dez/2024
 
 
 ### Técnicas e Ferramentas
-* Figma
-* Canva
-* Notion
-* Trello
-* Pacote Office
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+
 
 
 ### Sistemas Operacionais
-* Windows
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ### Sistemas de controle de versão
-* Git / Github
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 
 ## Experiência Profissional
 * Procurando minha primeira oportunidade na programação.
@@ -69,7 +73,6 @@ Ano de conclusão : dez/2024
 
 ## Projetos
 * [Bikcraft](https://kevinshiroma.github.io/bikcraft/)
-* [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
 * [Secure Her](https://github.com/KevinShiroma/Secure-her-IoT)
 
 ## Projetos Experiência do usuário(UX) e Interface do Usuário(UI)
