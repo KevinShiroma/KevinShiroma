@@ -1,27 +1,31 @@
-# Kevin Makoto Shiroma (Readme em construção)
-Desenvolvedor Front-end | UX/UI Designer
+# Kevin Makoto Shiroma  ![](https://komarev.com/ghpvc/?username=KevinShiroma&color=blueviolet&style=for-the-badge)
+Desenvolvedor Front-end | UX/UI Designer 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
 Meu nome é Kevin Makoto Shiroma, sou web developer e UX e UI Designer. <br>
 Sou estudante de Análise e Desenvolvimento de Sistemas, no segundo semestre, com término em dez/2024. <br>
-Meu foco de estudo é o front-end e na experiência do usuário, criando interfaces incríveis centradas ao usuário :rocket:
+Meu foco de estudo é o front-end e na experiência do usuário, criando a melhor experiência ao cliente :rocket:
 </p>
 
 <p align="left">
-
   <a href="https://www.linkedin.com/in/kevinmakotos/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinmakotos/" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a href="https://wa.me/11911171995" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+  <a href="makoto.shiroma@hotmail.com" alt="outlook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+
+
+ 
 
 </p>
 
 :house:   São Paulo / SP <br>
 :envelope:  makoto.shiroma@hotmail.com
-
 
 ## Formação
 * Análise e Desenvolvimento de Sistemas <br>
@@ -30,18 +34,26 @@ Ano de conclusão : dez/2024
 
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas.md)
 
-  
-## Minhas Skills 
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+  
+## :hammer_and_wrench: Minhas Skills 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<br>
+
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinShiroma&layout=compact&theme=vision-friendly-dark)](https://github.com/KevinShiroma/github-readme-stats)
+
 
 
 ### Técnicas e Ferramentas
@@ -104,10 +116,6 @@ Ano de conclusão : dez/2024
 
 
 
-## Redes Sociais
-*  [Facebook](https://www.facebook.com/makoto.shiroma)
-*  [Linkedin](https://www.linkedin.com/in/kevinmakotos/)
-
 ## Experiências Adicionais
 * Morei no Japão durante o período de nov/2020 a nov/2022, trabalhando como dekassegui. Cada ano em um lugar diferente. <br>
     * No primeiro ano trabalhei na provícia de Fukui, na [Murata](https://www.murata.com/en-us), uma fábrica de micro capacitores de cerâmica.  <br>
@@ -116,10 +124,5 @@ Ano de conclusão : dez/2024
 * O Japão possui uma fortíssima influência dos EUA, por isso muitas coisas são escritas e faladas em inglês. Então, diversas vezes precisei utilizar o inglês para me comunicar no Japão.
 
 
-  
 
-## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no [richmanzoli](https://github.com/richmanzoli/curriculo). Confere o dele lá também! :wink:
 
