@@ -13,7 +13,7 @@ Meu foco de estudo é o front-end e na experiência do usuário, criando a melho
   <a href="https://www.linkedin.com/in/kevinmakotos/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="https://wa.me/11911171995" alt="WhatsApp">
+  <a href="https://wa.me/5511911171995" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
   <a href="mailto:makoto.shiroma@hotmail.com" alt="outlook">
