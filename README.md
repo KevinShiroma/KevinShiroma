@@ -1,7 +1,7 @@
 # Kevin Makoto Shiroma  ![](https://komarev.com/ghpvc/?username=KevinShiroma&color=blueviolet&style=for-the-badge)
 Desenvolvedor Front-end | UX/UI Designer 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 Meu nome é Kevin Makoto Shiroma, sou web developer e UX e UI Designer. <br>
