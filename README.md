@@ -99,6 +99,7 @@ Ano de conclusão : dez/2024
 * Criar Wireframes e Protótipos de Baixa Fidelidade - Google ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ux-design-wireframes.pdf))
 * Conduzir Pesquisas de UX e testar os primeiros conceitos - Google ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/ux-design-pesquisa.pdf))
 * Criar designs e protótipos de alta fidelidade no Figma - Google ([Certificado](https://github.com/KevinShiroma/KevinShiroma/blob/main/certificados/ux-prototipo.pdf))
+* Web design responsivo em Adobe XD - Google ([Certificado](https://github.com/KevinShiroma/KevinShiroma/blob/main/certificados/ux-adobe-web.pdf))
 
 ### Softskills
 * Formação em Liderança - Conquer ([Certificado](https://github.com/KevinShiroma/curriculo/blob/main/certificados/conquer-certificado-lideran%C3%A7a.pdf))
