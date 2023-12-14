@@ -9,12 +9,12 @@
 | Sistemas Embarcados e Internet das Coisas                                                                                  | 1 | :heavy_check_mark: |
 | [Projeto Interdisciplinar: Solução em Internet das Coisas](https://github.com/KevinShiroma/Secure-her-IoT)                 | 1 | :heavy_check_mark: |
 |  |
-| Algoritmos e Estrutura de Dados                                                                                            | 2 | :heavy_minus_sign: |
-| Desenvolvimento Web Full Stack                                                                                             | 2 | :heavy_minus_sign: |
-| Design de Interface Digital                                                                                                | 2 | :heavy_minus_sign: |
-| Modelagem de Software e Arquitetura de Sistemas                                                                            | 2 | :heavy_minus_sign: |
-| Programação Orientada a Objetos                                                                                            | 2 | :heavy_minus_sign: |
-| Projeto Interdisciplinar: Sistema Empresarial Web                                                                          | 2 | :heavy_minus_sign: |
+| Algoritmos e Estrutura de Dados                                                                                            | 2 | :heavy_check_mark: |
+| Desenvolvimento Web Full Stack                                                                                             | 2 | :heavy_check_mark: |
+| Design de Interface Digital                                                                                                | 2 | :heavy_check_mark: |
+| Modelagem de Software e Arquitetura de Sistemas                                                                            | 2 | :heavy_check_mark: |
+| Programação Orientada a Objetos                                                                                            | 2 | :heavy_check_mark: |
+| [Projeto Interdisciplinar: Sistema empresarial WEB](https://github.com/KevinShiroma/MerciaLocacao)                                                                         | 2 | :heavy_check_mark: |
 |  |
 | Business English                                                                                                           | 3 | :heavy_minus_sign: |
 | Programação Mobile                                                                                                         | 3 | :heavy_minus_sign: |
