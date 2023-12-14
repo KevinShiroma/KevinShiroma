@@ -1,12 +1,14 @@
 # Kevin Makoto Shiroma  ![](https://komarev.com/ghpvc/?username=KevinShiroma&color=blueviolet&style=for-the-badge)
-## Desenvolvedor Front-end | UX/UI Designer 
+## Analista de Dados | Desenvolvedor Front-end | UX/UI Designer 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Meu nome é Kevin Makoto Shiroma, sou web developer e UX e UI Designer. <br>
-Sou estudante de Análise e Desenvolvimento de Sistemas, no segundo semestre, com término em dez/2024. <br>
-Meu foco de estudo é o front-end e na experiência do usuário, criando a melhor experiência ao cliente :rocket:
+Meu nome é Kevin Makoto Shiroma e atualmente sou estagiário de Análise de dados e BI. <br>
+Também sou estudante de Análise e Desenvolvimento de Sistemas, no penúltimo semestre, com término em dez/2024. <br><br>
+Meu título (cargo) pode parecer confuso por misturar duas áreas completamente diferentes. No início dos meus estudos eu iniciei pelo desenvolvimento
+front-end, por isso você verá aqui diversos repositórios de websites. Inclusive para me aperfeiçoar na área, eu concluí uma certificação em UX Design pela Google. <br><br>
+Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que estava melhor para a área de dados, então acabei migrando de UX Design e front-end para me tornar Analista de Dados.
 </p>
 
 <p align="left">
@@ -41,32 +43,44 @@ Ano de conclusão : dez/2024
   
 ## :hammer_and_wrench: Minhas Skills 
 
-<div>
+### Front-end e UX Design
+<div>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  title="bootstrap" alt="bootstrap" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" title="Canva" alt="Canva" />
+
+  
+
+  ### Análise de Dados
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python"  alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R"  alt="R" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau"  alt="Tableau" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="powerbi"  alt="powerbi" />
+  
+
+  ### Outros
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" title="Arduino"  alt="Arduino" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"  alt="C#" />
 
 </div>
 <br>
 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinShiroma&layout=compact&theme=vision-friendly-dark)](https://github.com/KevinShiroma/github-readme-stats)
-
-
-
 ### Ferramentas
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 
 
 
@@ -76,6 +90,8 @@ Ano de conclusão : dez/2024
 ### Sistemas de controle de versão
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinShiroma&layout=compact&theme=vision-friendly-dark)](https://github.com/KevinShiroma/github-readme-stats)
 
 
 ## Idiomas
