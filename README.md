@@ -100,6 +100,10 @@ Ano de conclusão : dez/2024
 * Inglês
   * Intermediário / Avançado 
 
+## Certificados 
+[Clique aqui para ver todos meus certificados](https://github.com/KevinShiroma/KevinShiroma/tree/main/certificados)
+<br>
+
 <!--
 ## Cursos Completos
 
