@@ -70,7 +70,6 @@ Ano de conclusão : dez/2024
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#"  alt="C#" />
 
 </div>
-<br>
 
 
 ### Ferramentas
