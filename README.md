@@ -31,14 +31,12 @@ Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que e
 :house:   São Paulo / SP <br>
 :envelope:  makoto.shiroma@hotmail.com
 
-## Formação
+## :school: Formação
 * Análise e Desenvolvimento de Sistemas <br>
 FECAP - Fundação Escola de Comércio Álvares Penteado - Campus Liberdade <br>
 Ano de conclusão : dez/2024
 
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas.md)
-
-
 
   
 ## :hammer_and_wrench: Minhas Skills 
@@ -93,13 +91,13 @@ Ano de conclusão : dez/2024
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinShiroma&layout=compact&theme=vision-friendly-dark)](https://github.com/KevinShiroma/github-readme-stats)
 
 
-## Idiomas
+## :globe_with_meridians: Idiomas
 * Japonês
   * Básico/ Intermediário
 * Inglês
   * Intermediário / Avançado 
 
-## Certificados 
+## :man_student: Certificados 
 [Clique aqui para ver todos meus certificados](https://github.com/KevinShiroma/KevinShiroma/tree/main/certificados)
 <br>
 
@@ -131,7 +129,7 @@ Ano de conclusão : dez/2024
 -->
 
 
-## Experiências Adicionais
+## :information_source: Experiências Adicionais
 * Morei no Japão durante o período de nov/2020 a nov/2022, trabalhando como dekassegui. Cada ano em um lugar diferente. <br>
     * No primeiro ano trabalhei na provícia de Fukui, na [Murata](https://www.murata.com/en-us), uma fábrica de micro capacitores de cerâmica.  <br>
     * No segundo ano na província de Aichi, na [Denso](https://www.denso.com/br/pt/), onde eram criados placas eletrônicas para carros em sua maioria da Toyota, Subaru e Honda. <br>
