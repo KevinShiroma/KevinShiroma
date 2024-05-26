@@ -14,14 +14,14 @@
 | Design de Interface Digital                                                                                                | 2 | :heavy_check_mark: |
 | Modelagem de Software e Arquitetura de Sistemas                                                                            | 2 | :heavy_check_mark: |
 | Programação Orientada a Objetos                                                                                            | 2 | :heavy_check_mark: |
-| [Projeto Interdisciplinar: Sistema empresarial WEB](https://github.com/KevinShiroma/MerciaLocacao)                                                                         | 2 | :heavy_check_mark: |
+| [Projeto Interdisciplinar: Sistema empresarial WEB](https://github.com/KevinShiroma/MerciaLocacao)                         | 2 | :heavy_check_mark: |
 |  |
 | Business English                                                                                                           | 3 | :heavy_minus_sign: |
 | Programação Mobile                                                                                                         | 3 | :heavy_minus_sign: |
 | Sistemas Operacionais e Arquiteturas Cloud Native                                                                          | 3 | :heavy_minus_sign: |
 | Testes e Qualidade de Software (DevOps)                                                                                    | 3 | :heavy_minus_sign: |
 | User Experience Digital                                                                                                    | 3 | :heavy_minus_sign: |
-| Projeto Interdisciplinar: Desenvolvimento e Publicação de Aplicativo Mobile                                                | 3 | :heavy_minus_sign: |
+| [Projeto Interdisciplinar: Desenvolvimento e Publicação de Aplicativo Mobile](https://github.com/KevinShiroma/fecapSocial) | 3 | :heavy_minus_sign: |
 |  |
 | Cibersegurança e Defesa Cibernética                                                                                        | 4 | :heavy_minus_sign: |
 | Ciência de Dados e Big Data                                                                                                | 4 | :heavy_minus_sign: |
