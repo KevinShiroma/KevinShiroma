@@ -36,7 +36,7 @@ Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que e
 FECAP - Fundação Escola de Comércio Álvares Penteado - Campus Liberdade <br>
 Ano de conclusão : dez/2024
 
-[_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas.md)
+[_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas-ADS.md)
 
   
 ## :hammer_and_wrench: Minhas Skills 
