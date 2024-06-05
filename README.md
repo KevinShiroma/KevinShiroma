@@ -1,5 +1,5 @@
 # Kevin Makoto Shiroma  ![](https://komarev.com/ghpvc/?username=KevinShiroma&color=blueviolet&style=for-the-badge)
-## Analista de Dados | Desenvolvedor Front-end | UX/UI Designer 
+## Engenheiro de Dados 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
