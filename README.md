@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Meu nome é Kevin Makoto Shiroma e atualmente sou estagiário de Análise de dados e BI e futuro Engenheiro de Dados. <br>
+Meu nome é Kevin Makoto Shiroma e atualmente sou estagiário de BI e futuro Engenheiro de Dados. <br>
 Também sou estudante de Análise e Desenvolvimento de Sistemas, no penúltimo semestre, com término em dez/2024. <br><br>
 <!-- Meu título (cargo) pode parecer confuso por misturar duas áreas completamente diferentes. No início dos meus estudos eu iniciei pelo desenvolvimento
 front-end, por isso você verá aqui diversos repositórios de websites. Inclusive para me aperfeiçoar na área, eu concluí uma certificação em UX Design pela Google. <br><br>
