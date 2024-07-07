@@ -38,16 +38,16 @@ Ano de conclusão : dez/2024
 
 ## :briefcase: Experiência
 ### Estagiário de Business Intelligence - Ultragaz (01/2024 - 12/2024) <br>
-Minha função:
+* Minha função:
 A missão é disseminar a tomada de decisão baseada em dados e é a área responsável pelos dados da companhia. <br>
 Atuo na coleta de dados para o BI e DataLake e analiso dados através do Power BI, Python e SQL, retirando dados de tabelas estruturadas do Data Warehouse pelo Databricks. <br>
 Minha rotina se resume em: <br>
-    • Análise de dados através do SQL ou Python; <br>
-    • Criação de Dashboards no Power BI;<br>
-    • Integração de dados para o DataLake e BigData através do Microsoft Azure Data Factory; <br>
-    • Governança de Dados como catalogação, controle de acessos no Data Lake e Power BI e qualidade dos dados; <br>
-    • Criação de algoritmos (Machine Learning) e utilização de IA (Inteligência Artificial); <br>
-    • Acompanhar orçamento e divulgação de resultados financeiros. <br>
+    * Análise de dados através do SQL ou Python; <br>
+    * Criação de Dashboards no Power BI;<br>
+    * Integração de dados para o DataLake e BigData através do Microsoft Azure Data Factory; <br>
+    * Governança de Dados como catalogação, controle de acessos no Data Lake e Power BI e qualidade dos dados; <br>
+    * Criação de algoritmos (Machine Learning) e utilização de IA (Inteligência Artificial); <br>
+    * Acompanhar orçamento e divulgação de resultados financeiros. <br>
 
   
 ## :hammer_and_wrench: Minhas Skills 
