@@ -20,9 +20,6 @@ Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que e
 
   <a href="mailto:makoto.shiroma@hotmail.com" alt="outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-
-  <a href="https://behance.net/kevinshiroma" alt="behance">
-  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
  
  
 
