@@ -23,9 +23,9 @@
 | User Experience Digital                                                                                                    | 3 | :heavy_check_mark: |
 | [Projeto Interdisciplinar: Desenvolvimento e Publicação de Aplicativo Mobile](https://github.com/KevinShiroma/fecapSocial) | 3 | :heavy_check_mark: |
 |  |
-| Cibersegurança e Defesa Cibernética                                                                                        | 4 | :heavy_minus_sign: |
-| Ciência de Dados e Big Data                                                                                                | 4 | :heavy_minus_sign: |
-| Empreendedorismo e Transformação Digital                                                                                   | 4 | :heavy_minus_sign: |
-| Gestão de Projetos de Software                                                                                             | 4 | :heavy_minus_sign: |
-| Inteligência Artificial e Machine Learning                                                                                 | 4 | :heavy_minus_sign: |
-| Projeto Interdisciplinar: Startup Digital                                                                                  | 4 | :heavy_minus_sign: |
+| Cibersegurança e Defesa Cibernética                                                                                        | 4 | :heavy_check_mark: |
+| Ciência de Dados e Big Data                                                                                                | 4 | :heavy_check_mark: |
+| Empreendedorismo e Transformação Digital                                                                                   | 4 | :heavy_check_mark: |
+| Gestão de Projetos de Software                                                                                             | 4 | :heavy_check_mark: |
+| Inteligência Artificial e Machine Learning                                                                                 | 4 | :heavy_check_mark: |
+| [Projeto Interdisciplinar: Startup Digital](https://github.com/KevinShiroma/DataSafeAI)                                    | 4 | :heavy_check_mark: |
