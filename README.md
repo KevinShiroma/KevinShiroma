@@ -4,9 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Meu nome é Kevin Makoto Shiroma e atualmente sou estagiário de BI e futuro Engenheiro de Dados. Possuo
-  habilidades em Front-end e UX/UI Design. <br>
-Também sou estudante de Análise e Desenvolvimento de Sistemas, no penúltimo semestre, com término em dez/2024. <br><br>
+Meu nome é Kevin Makoto Shiroma, formado em Análise e Desenvolvimento de Sistemas e atualmente sou Engenheiro de Dados. <br><br>
 <!-- Meu título (cargo) pode parecer confuso por misturar duas áreas completamente diferentes. No início dos meus estudos eu iniciei pelo desenvolvimento
 front-end, por isso você verá aqui diversos repositórios de websites. Inclusive para me aperfeiçoar na área, eu concluí uma certificação em UX Design pela Google. <br><br>
 Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que estava melhor para a área de dados, então acabei migrando de UX Design e front-end para me tornar Analista de Dados. -->
@@ -38,17 +36,13 @@ Ano de conclusão : dez/2024
 
 ## :briefcase: Experiência
 ### Estagiário de Business Intelligence - Ultragaz (01/2024 - 12/2024) <br>
-* Minha função:
-A missão é disseminar a tomada de decisão baseada em dados e é a área responsável pelos dados da companhia. <br>
-Atuo na coleta de dados para o BI e DataLake e analiso dados através do Power BI, Python e SQL, retirando dados de tabelas estruturadas do Data Warehouse pelo Databricks. <br>
-Minha rotina se resume em: <br>
-    * Análise de dados através do SQL ou Python; <br>
-    * Criação de Dashboards no Power BI;<br>
-    * Integração de dados para o DataLake e BigData através do Microsoft Azure Data Factory; <br>
-    * Governança de Dados como catalogação, controle de acessos no Data Lake e Power BI e qualidade dos dados; <br>
-    * Criação de algoritmos (Machine Learning) e utilização de IA (Inteligência Artificial); <br>
-    * Acompanhar orçamento e divulgação de resultados financeiros. <br>
-
+Minha função:
+Responsável pela coleta, análise e visualização de dados, suporte e manutenção de pipelines ETL e assumi a frente IA da companhia. <br>
+    * Integração de Big Data no Data Warehouse e Data Lake;  <br>
+    * Criação de Dashboards no Power Bl para acompanhamento dos OKR’s da empresa; <br>
+    * Utilização de Inteligência Artificial, principalmente o uso de visão computacional, a 
+qual melhorou em 97% a eficiência de tempo dos processos internos; <br>
+    * Modelagem e processamento de dados com Databricks. <br>
   
 ## :hammer_and_wrench: Minhas Skills 
 
