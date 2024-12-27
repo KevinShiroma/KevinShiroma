@@ -43,7 +43,17 @@ Responsável pela coleta, análise e visualização de dados, suporte e manuten�
     * Utilização de Inteligência Artificial, principalmente o uso de visão computacional, a 
 qual melhorou em 97% a eficiência de tempo dos processos internos; <br>
     * Modelagem e processamento de dados com Databricks. <br>
-  
+
+  <br>
+
+### Monitor de Graduação - FECAP (03/2024 - 12/2024) <br>
+Minha função:
+Responsável pela monitoria para alunos de programação e Microsoft Office (Word, Powerpointe Excel, com foco em desenvolvimento de habilidades práticas e teóricas. <br>
+    * Suporte acadêmico para alunos em linguagens de programação (Python e C#);  <br>
+    * Apoio na aplicação prática do pacote Microsoft Office em ambiente corporativo (Word,
+Excel, PowerPoint), negócios. <br>
+    
+
 ## :hammer_and_wrench: Minhas Skills 
 
 ### Front-end e UX Design
