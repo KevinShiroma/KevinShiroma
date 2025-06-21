@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Meu nome é Kevin Makoto Shiroma, formado em Análise e Desenvolvimento de Sistemas e atualmente sou Engenheiro de Dados. <br><br>
+Meu nome é Kevin Makoto Shiroma, formado em Análise e Desenvolvimento de Sistemas e atualmente Engenheiro de Dados. <br><br>
 <!-- Meu título (cargo) pode parecer confuso por misturar duas áreas completamente diferentes. No início dos meus estudos eu iniciei pelo desenvolvimento
 front-end, por isso você verá aqui diversos repositórios de websites. Inclusive para me aperfeiçoar na área, eu concluí uma certificação em UX Design pela Google. <br><br>
 Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que estava melhor para a área de dados, então acabei migrando de UX Design e front-end para me tornar Analista de Dados. -->
@@ -28,13 +28,32 @@ Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que e
 :envelope:  makoto.shiroma@hotmail.com
 
 ## :school: Formação
-* Análise e Desenvolvimento de Sistemas <br>
+* Pós Graduação em Analytics em Big Data - Data Engineering <br>
+FIA - Fundação Institulo de Administração - Campus Paulista <br>
+Ano de conclusão : 2026
+
+[_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/KevinShiroma/blob/main/POS-DATA-ENGINEERING-EAD.pdf) <br>
+
+* Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
 FECAP - Fundação Escola de Comércio Álvares Penteado - Campus Liberdade <br>
 Ano de conclusão : dez/2024
 
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas-ADS.md) <br>
 
 ## :briefcase: Experiência
+### Engenheiro de Dados e IA - Ultragaz (02/2025 - ATUAL) <br>
+Minha função:
+Responsável pelo processo de ETL da companhia, desenvolvimento de automações de 
+processos internos e criação de aplicações utilizando Inteligência Artificial. <br>
+    * Construção e sustentação de pipelines ETL utilizando Azure Data Factory e Databricks;  <br>
+    * Manutenção do BI e de pipelines de ingestão de dados; <br>
+    * Modelagem de dados e armazenamento de dados no Azure Data Lake; <br>
+    * Ingestão de dados provenientes de APIs, ERP, CRM e banco de dados;  <br>
+    * Desenvolvimento de soluções baseadas em Inteligência Artificial Generativa;  <br>
+    * Desenvolvimento de automações via Power Automate e Logic Apps.  <br>
+
+   <br>
+
 ### Estagiário de Business Intelligence - Ultragaz (01/2024 - 12/2024) <br>
 Minha função:
 Responsável pela coleta, análise e visualização de dados, suporte e manutenção de pipelines ETL e assumi a frente IA da companhia. <br>
@@ -55,28 +74,23 @@ Excel, PowerPoint), negócios. <br>
     
 
 ## :hammer_and_wrench: Minhas Skills 
-
-### Front-end e UX Design
 <div>  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  title="bootstrap" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" title="Canva" alt="Canva" />
-
-  
 
   ### Análise de Dados
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python"  alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R"  alt="R" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau"  alt="Tableau" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="powerbi"  alt="powerbi" />
   
+  ### Banco de Dados
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" title="PostgreSQL"  alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"  title="cassandra" alt="cassandra" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="mongodb"  alt="mongodb" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" title="redis"  alt="redis" />
+
+  ### Cloud
+  <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8" title="Azure"  alt="Azure" />
 
   ### Outros
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" title="Arduino"  alt="Arduino" />
@@ -95,9 +109,9 @@ Excel, PowerPoint), negócios. <br>
 
 
 
-
 ### Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ### Sistemas de controle de versão
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
