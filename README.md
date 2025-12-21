@@ -28,8 +28,8 @@ Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que e
 :envelope:  makoto.shiroma@hotmail.com
 
 ## :school: Formação
-* Pós Graduação em Analytics em Big Data - Data Engineering <br>
-FIA - Fundação Institulo de Administração - Campus Paulista <br>
+* Pós Graduação em IA para Desenvolvedores <br>
+FIAP - Faculdade de Informática e Administração Paulista <br>
 Ano de conclusão : 2026
 
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/KevinShiroma/blob/main/POS-DATA-ENGINEERING-EAD.pdf) <br>
