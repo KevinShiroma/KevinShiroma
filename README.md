@@ -32,7 +32,7 @@ Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que e
 FIAP - Faculdade de Informática e Administração Paulista <br>
 Ano de conclusão : 2026
 
-[_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/KevinShiroma/blob/main/ia-para-devs%20(1).pdff) <br>
+[_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/KevinShiroma/blob/main/ia-para-devs%20(1).pdf) <br>
 
 * Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
 FECAP - Fundação Escola de Comércio Álvares Penteado - Campus Liberdade <br>
