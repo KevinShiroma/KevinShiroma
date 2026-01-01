@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Meu nome é Kevin Makoto Shiroma, formado em Análise e Desenvolvimento de Sistemas e atualmente Engenheiro de Dados. <br><br>
+Meu nome é Kevin Makoto Shiroma e sou Engenheiro de Dados. <br><br>
 <!-- Meu título (cargo) pode parecer confuso por misturar duas áreas completamente diferentes. No início dos meus estudos eu iniciei pelo desenvolvimento
 front-end, por isso você verá aqui diversos repositórios de websites. Inclusive para me aperfeiçoar na área, eu concluí uma certificação em UX Design pela Google. <br><br>
 Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que estava melhor para a área de dados, então acabei migrando de UX Design e front-end para me tornar Analista de Dados. -->
