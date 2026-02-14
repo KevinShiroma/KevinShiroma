@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Meu nome é Kevin Makoto Shiroma e sou Engenheiro de Dados. <br><br>
+Oi, meu nome é Kevin e sou engenheiro de dados! <br>
 <!-- Meu título (cargo) pode parecer confuso por misturar duas áreas completamente diferentes. No início dos meus estudos eu iniciei pelo desenvolvimento
 front-end, por isso você verá aqui diversos repositórios de websites. Inclusive para me aperfeiçoar na área, eu concluí uma certificação em UX Design pela Google. <br><br>
 Porém, conforme fui entendendo a dinâmica do mercado de trabalho entendi que estava melhor para a área de dados, então acabei migrando de UX Design e front-end para me tornar Analista de Dados. -->
@@ -41,7 +41,18 @@ Ano de conclusão : dez/2024
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas-ADS.md) <br>
 
 ## :briefcase: Experiência
-### Engenheiro de Dados e IA - Ultragaz (02/2025 - ATUAL) <br>
+### SantoDigital - Ultragaz (01/2026 - ATUAL) <br>
+Minha função:
+Responsável pelo processo de ETL da companhia, desenvolvimento de automações de 
+processos internos e criação de aplicações utilizando Inteligência Artificial. <br>
+    * Arquitetura de Dados: Definição e implementação da Arquitetura Medalhão no Big Query (Bronze, Silver, Gold), garantindo organização e governança do Data Lake.<br>
+    * Engenharia & Ingestão: Desenvolvimento de pipelines de dados complexos utilizando Google Cloud Composer (Airflow), Application Integration, Datastream, Pub/Sub e Dataform e processamento via Dataflow.<br>
+    * APIs & Serverless: Criação de rotinas via Cloud Scheduler de ingestão de APIs customizadas rodando em Cloud Run e Cloud Functions.<br>
+    * Analytics: Modelagem de dados e desenvolvimento de dashboards no Looker para as áreas de negócio.<br>
+
+   <br>
+
+### Engenheiro de Dados e IA - Ultragaz (02/2025 - 01/2026) <br>
 Minha função:
 Responsável pelo processo de ETL da companhia, desenvolvimento de automações de 
 processos internos e criação de aplicações utilizando Inteligência Artificial. <br>
