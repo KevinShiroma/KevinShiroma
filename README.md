@@ -41,7 +41,7 @@ Ano de conclusão : dez/2024
 [_Clique aqui para ver as disciplinas do curso._](https://github.com/KevinShiroma/curriculo/blob/main/Disciplinas-ADS.md) <br>
 
 ## :briefcase: Experiência
-### SantoDigital - Ultragaz (01/2026 - ATUAL) <br>
+### Engenheiro de Dados - SantoDigital (01/2026 - ATUAL) <br>
 Minha função:
 Responsável pelo processo de ETL da companhia, desenvolvimento de automações de 
 processos internos e criação de aplicações utilizando Inteligência Artificial. <br>
